@@ -1,0 +1,23 @@
+{
+  "name": "Daikozi",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi 👋, I'm Mehdi</h1> <h3 align=\"center\">A passionate frontend developer from Paris, France.</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daikozi/Daikozi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daikozi/Daikozi/issues"
+  },
+  "homepage": "https://github.com/Daikozi/Daikozi#readme",
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  }
+}
